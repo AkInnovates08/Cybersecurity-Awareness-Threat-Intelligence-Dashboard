@@ -1,0 +1,5 @@
+def enrich_indicator(indicator, rows):
+    matches=[r for r in rows if r['indicator_value'].lower()==indicator.lower()]
+    if not matches:return {'found':False,'indicator':indicator,'matches':[]}
+    cats=sorted(set(r['threat_category'] for r in matches)); related=sorted(set(r['indicator_value'] for r in matches))
+    return {'found':True,'indicator':indicator,'indicator_type':matches[0]['indicator_type'],'first_seen':min(r['first_seen'] for r in matches),'last_seen':max(r['last_seen'] for r in matches),'categories':cats,'confidence':max(int(r['confidence_score']) for r in matches),'severity':max(matches,key=lambda x:['INFORMATIONAL','LOW','MEDIUM','HIGH','CRITICAL'].index(x['severity']))['severity'],'risk_score':max(int(r['risk_score']) for r in matches),'related_indicators':related,'related_alerts':[],'mitre_mappings':sorted(set(r['mitre_technique_optional'] for r in matches if r['mitre_technique_optional'])),'analyst_notes':'Synthetic/local enrichment only. No external indicator interaction is performed.'}

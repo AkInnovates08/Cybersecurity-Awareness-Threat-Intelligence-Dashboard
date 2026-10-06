@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "category": "Phishing",
+    "question": "Question 1: What is the safest defensive response to a phishing warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 2,
+    "category": "Passwords",
+    "question": "Question 2: What is the safest defensive response to a passwords warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 3,
+    "category": "MFA",
+    "question": "Question 3: What is the safest defensive response to a mfa warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 4,
+    "category": "Social Engineering",
+    "question": "Question 4: What is the safest defensive response to a social engineering warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 5,
+    "category": "Safe Browsing",
+    "question": "Question 5: What is the safest defensive response to a safe browsing warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 6,
+    "category": "Ransomware",
+    "question": "Question 6: What is the safest defensive response to a ransomware warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 7,
+    "category": "Privacy",
+    "question": "Question 7: What is the safest defensive response to a privacy warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 8,
+    "category": "Wi-Fi",
+    "question": "Question 8: What is the safest defensive response to a wi-fi warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 9,
+    "category": "Mobile Security",
+    "question": "Question 9: What is the safest defensive response to a mobile security warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 10,
+    "category": "Incident Reporting",
+    "question": "Question 10: What is the safest defensive response to a incident reporting warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 11,
+    "category": "Phishing",
+    "question": "Question 11: What is the safest defensive response to a phishing warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 12,
+    "category": "Passwords",
+    "question": "Question 12: What is the safest defensive response to a passwords warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 13,
+    "category": "MFA",
+    "question": "Question 13: What is the safest defensive response to a mfa warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 14,
+    "category": "Social Engineering",
+    "question": "Question 14: What is the safest defensive response to a social engineering warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 15,
+    "category": "Safe Browsing",
+    "question": "Question 15: What is the safest defensive response to a safe browsing warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 16,
+    "category": "Ransomware",
+    "question": "Question 16: What is the safest defensive response to a ransomware warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 17,
+    "category": "Privacy",
+    "question": "Question 17: What is the safest defensive response to a privacy warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 18,
+    "category": "Wi-Fi",
+    "question": "Question 18: What is the safest defensive response to a wi-fi warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 19,
+    "category": "Mobile Security",
+    "question": "Question 19: What is the safest defensive response to a mobile security warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 20,
+    "category": "Incident Reporting",
+    "question": "Question 20: What is the safest defensive response to a incident reporting warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 21,
+    "category": "Phishing",
+    "question": "Question 21: What is the safest defensive response to a phishing warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 22,
+    "category": "Passwords",
+    "question": "Question 22: What is the safest defensive response to a passwords warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 23,
+    "category": "MFA",
+    "question": "Question 23: What is the safest defensive response to a mfa warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 24,
+    "category": "Social Engineering",
+    "question": "Question 24: What is the safest defensive response to a social engineering warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 25,
+    "category": "Safe Browsing",
+    "question": "Question 25: What is the safest defensive response to a safe browsing warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 26,
+    "category": "Ransomware",
+    "question": "Question 26: What is the safest defensive response to a ransomware warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 27,
+    "category": "Privacy",
+    "question": "Question 27: What is the safest defensive response to a privacy warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 28,
+    "category": "Wi-Fi",
+    "question": "Question 28: What is the safest defensive response to a wi-fi warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 29,
+    "category": "Mobile Security",
+    "question": "Question 29: What is the safest defensive response to a mobile security warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  },
+  {
+    "id": 30,
+    "category": "Incident Reporting",
+    "question": "Question 30: What is the safest defensive response to a incident reporting warning sign?",
+    "options": [
+      "Ignore it",
+      "Share credentials or sensitive data",
+      "Verify using an official trusted process and report when appropriate",
+      "Visit an unknown link to investigate"
+    ],
+    "correct_index": 2,
+    "explanation": "Use an official trusted process, avoid unsafe interaction, and report the event through the approved channel."
+  }
+]

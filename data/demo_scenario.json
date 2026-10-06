@@ -1,0 +1,15 @@
+{
+  "threat_id": "THR-2026-001",
+  "threat_name": "Synthetic Credential Phishing Campaign",
+  "category": "PHISHING",
+  "indicator_type": "DOMAIN",
+  "indicator": "login-check.invalid",
+  "severity": "HIGH",
+  "risk": 78,
+  "confidence": 85,
+  "status": "MONITORING",
+  "related_indicator": "198.51.100.25",
+  "analyst_note": "Indicator appears in multiple synthetic phishing observations.",
+  "recommended_actions": ["Review related internal logs", "Check for authorized sightings", "Review email-security telemetry", "Increase phishing awareness", "Monitor related indicators"],
+  "network_interaction": false
+}

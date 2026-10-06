@@ -1,0 +1,101 @@
+cve_id,product_category,severity,cvss_score,published_date,patch_available,exploitation_status_demo,description
+CVE-2026-5001,Identity Platform,MEDIUM,5.6,2026-09-02,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5002,Endpoint,HIGH,7.5,2026-09-03,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5003,Database,HIGH,8.8,2026-09-04,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5004,Cloud Service,CRITICAL,9.8,2026-09-05,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5005,Web Application,LOW,3.1,2026-09-06,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5006,Identity Platform,MEDIUM,5.6,2026-09-07,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5007,Endpoint,HIGH,7.5,2026-09-08,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5008,Database,HIGH,8.8,2026-09-09,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5009,Cloud Service,CRITICAL,9.8,2026-09-10,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5010,Web Application,LOW,3.1,2026-09-11,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5011,Identity Platform,MEDIUM,5.6,2026-09-12,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5012,Endpoint,HIGH,7.5,2026-09-13,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5013,Database,HIGH,8.8,2026-09-14,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5014,Cloud Service,CRITICAL,9.8,2026-09-15,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5015,Web Application,LOW,3.1,2026-09-16,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5016,Identity Platform,MEDIUM,5.6,2026-09-17,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5017,Endpoint,HIGH,7.5,2026-09-18,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5018,Database,HIGH,8.8,2026-09-19,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5019,Cloud Service,CRITICAL,9.8,2026-09-20,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5020,Web Application,LOW,3.1,2026-09-21,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5021,Identity Platform,MEDIUM,5.6,2026-09-22,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5022,Endpoint,HIGH,7.5,2026-09-23,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5023,Database,HIGH,8.8,2026-09-24,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5024,Cloud Service,CRITICAL,9.8,2026-09-25,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5025,Web Application,LOW,3.1,2026-09-26,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5026,Identity Platform,MEDIUM,5.6,2026-09-27,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5027,Endpoint,HIGH,7.5,2026-09-28,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5028,Database,HIGH,8.8,2026-09-01,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5029,Cloud Service,CRITICAL,9.8,2026-09-02,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5030,Web Application,LOW,3.1,2026-09-03,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5031,Identity Platform,MEDIUM,5.6,2026-09-04,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5032,Endpoint,HIGH,7.5,2026-09-05,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5033,Database,HIGH,8.8,2026-09-06,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5034,Cloud Service,CRITICAL,9.8,2026-09-07,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5035,Web Application,LOW,3.1,2026-09-08,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5036,Identity Platform,MEDIUM,5.6,2026-09-09,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5037,Endpoint,HIGH,7.5,2026-09-10,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5038,Database,HIGH,8.8,2026-09-11,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5039,Cloud Service,CRITICAL,9.8,2026-09-12,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5040,Web Application,LOW,3.1,2026-09-13,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5041,Identity Platform,MEDIUM,5.6,2026-09-14,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5042,Endpoint,HIGH,7.5,2026-09-15,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5043,Database,HIGH,8.8,2026-09-16,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5044,Cloud Service,CRITICAL,9.8,2026-09-17,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5045,Web Application,LOW,3.1,2026-09-18,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5046,Identity Platform,MEDIUM,5.6,2026-09-19,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5047,Endpoint,HIGH,7.5,2026-09-20,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5048,Database,HIGH,8.8,2026-09-21,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5049,Cloud Service,CRITICAL,9.8,2026-09-22,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5050,Web Application,LOW,3.1,2026-09-23,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5051,Identity Platform,MEDIUM,5.6,2026-09-24,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5052,Endpoint,HIGH,7.5,2026-09-25,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5053,Database,HIGH,8.8,2026-09-26,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5054,Cloud Service,CRITICAL,9.8,2026-09-27,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5055,Web Application,LOW,3.1,2026-09-28,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5056,Identity Platform,MEDIUM,5.6,2026-09-01,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5057,Endpoint,HIGH,7.5,2026-09-02,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5058,Database,HIGH,8.8,2026-09-03,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5059,Cloud Service,CRITICAL,9.8,2026-09-04,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5060,Web Application,LOW,3.1,2026-09-05,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5061,Identity Platform,MEDIUM,5.6,2026-09-06,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5062,Endpoint,HIGH,7.5,2026-09-07,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5063,Database,HIGH,8.8,2026-09-08,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5064,Cloud Service,CRITICAL,9.8,2026-09-09,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5065,Web Application,LOW,3.1,2026-09-10,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5066,Identity Platform,MEDIUM,5.6,2026-09-11,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5067,Endpoint,HIGH,7.5,2026-09-12,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5068,Database,HIGH,8.8,2026-09-13,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5069,Cloud Service,CRITICAL,9.8,2026-09-14,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5070,Web Application,LOW,3.1,2026-09-15,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5071,Identity Platform,MEDIUM,5.6,2026-09-16,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5072,Endpoint,HIGH,7.5,2026-09-17,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5073,Database,HIGH,8.8,2026-09-18,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5074,Cloud Service,CRITICAL,9.8,2026-09-19,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5075,Web Application,LOW,3.1,2026-09-20,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5076,Identity Platform,MEDIUM,5.6,2026-09-21,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5077,Endpoint,HIGH,7.5,2026-09-22,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5078,Database,HIGH,8.8,2026-09-23,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5079,Cloud Service,CRITICAL,9.8,2026-09-24,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5080,Web Application,LOW,3.1,2026-09-25,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5081,Identity Platform,MEDIUM,5.6,2026-09-26,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5082,Endpoint,HIGH,7.5,2026-09-27,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5083,Database,HIGH,8.8,2026-09-28,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5084,Cloud Service,CRITICAL,9.8,2026-09-01,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5085,Web Application,LOW,3.1,2026-09-02,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5086,Identity Platform,MEDIUM,5.6,2026-09-03,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5087,Endpoint,HIGH,7.5,2026-09-04,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5088,Database,HIGH,8.8,2026-09-05,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5089,Cloud Service,CRITICAL,9.8,2026-09-06,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5090,Web Application,LOW,3.1,2026-09-07,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5091,Identity Platform,MEDIUM,5.6,2026-09-08,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5092,Endpoint,HIGH,7.5,2026-09-09,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5093,Database,HIGH,8.8,2026-09-10,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5094,Cloud Service,CRITICAL,9.8,2026-09-11,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5095,Web Application,LOW,3.1,2026-09-12,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5096,Identity Platform,MEDIUM,5.6,2026-09-13,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5097,Endpoint,HIGH,7.5,2026-09-14,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5098,Database,HIGH,8.8,2026-09-15,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5099,Cloud Service,CRITICAL,9.8,2026-09-16,NO,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
+CVE-2026-5100,Web Application,LOW,3.1,2026-09-17,YES,DEMO - no exploitation activity represented,Synthetic vulnerability awareness record
